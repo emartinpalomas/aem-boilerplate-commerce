@@ -1,0 +1,6 @@
+mountpoints:
+  /:
+    url: https://adobe.sharepoint.com/:f:/r/sites/testingstorefront/Shared%20Documents/testingstorefront?csf=1&web=1&e=HUCTbJ
+
+folders:
+  /products/: /products/default
